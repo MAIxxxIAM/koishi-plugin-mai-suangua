@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-mai-suangua",
-  "description": "可以使用MD的算卦插件，数据来自at佬",
-  "version": "0.0.1",
+  "description": "使用MD的算卦插件，数据来自at佬",
+  "version": "0.0.6",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
