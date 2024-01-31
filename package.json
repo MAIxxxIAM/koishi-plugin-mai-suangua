@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-mai-suangua",
   "description": "使用MD的算卦插件，数据来自at佬",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,13 +9,18 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
+  "homepage": "https://github.com/MAIxxxIAM/koishi-plugin-mai-suangua",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAIxxxIAM/koishi-plugin-mai-suangua.git"
+  },
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "suangua"
   ],
   "peerDependencies": {
-    "koishi": "^4.16.4"
+    "koishi": "^4.16.6"
   }
 }
