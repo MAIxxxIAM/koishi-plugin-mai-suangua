@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-mai-suangua",
   "description": "使用MD的算卦插件，数据来自at佬",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -21,6 +21,6 @@
     "suangua"
   ],
   "peerDependencies": {
-    "koishi": "^4.16.6"
+    "koishi": "^4.17.1"
   }
 }
